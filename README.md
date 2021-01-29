@@ -1,2 +1,2 @@
-# JavaScript-Projects
+# codingwork
 Personal projects of mine.
